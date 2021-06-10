@@ -1,3 +1,1 @@
-# name undecided so I shall leave this blank
-
-
+# NotKer, a notetaking app
