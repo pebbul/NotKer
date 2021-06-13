@@ -1,1 +1,1 @@
-# NotKer, a notetaking app
+# NotKer: Note-Taking App
